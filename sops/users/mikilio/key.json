@@ -1,0 +1,10 @@
+[
+  {
+    "publickey": "C1FD5ADC93DB2220",
+    "type": "pgp"
+  },
+  {
+    "publickey": "age1yubikey1qfevylzne52c04dyhjwyyl5dpqz342kaqpm4eyzv7h04p40r48k9vayesv6",
+    "type": "age"
+  }
+]

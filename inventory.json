@@ -1,0 +1,13 @@
+{
+  "machines": {
+    "brain": {
+      "installedAt": 1762564041
+    },
+    "gate": {
+      "installedAt": 1762882759
+    },
+    "wp1": {
+      "installedAt": 1772877172
+    }
+  }
+}

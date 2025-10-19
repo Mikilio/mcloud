@@ -1,0 +1,2 @@
+default._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDfvg68kqMoxOe+I3+nvCW2eW+TqjOcAkNb96TqgeUYiyNx1OKpXOrkKNa5jmxXzuKofupUy+4I+qiW0p/aWZxx2OG6zEYJNVHuYG6lPQrUjyZzLfmuww1dhU9zNaIKpPKNE853D7dIPpjSDlEfIiN9r5veUDE3acNgNuCrf/1t1QIDAQAB" )  ; ----- DKIM key default for mikilio.com
